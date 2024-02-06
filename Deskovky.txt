@@ -1,0 +1,6 @@
+Ponorka;ano;1
+Carcassonne;ano;2
+Dixit;ne;1
+Ubongo;ano;3
+Dostihy a Sázky;ne;2
+Riskuj!;ne;3
